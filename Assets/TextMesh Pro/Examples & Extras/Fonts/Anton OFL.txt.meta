@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73a79399807f4e8388c2cbb5494681ca
+timeCreated: 1484172033
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150956
+  packageName: Karting Microgame | 3D Sample Project
+  packageVersion: 4.1.0
+  assetPath: Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt
+  uploadId: 990568

@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 57694ed9d1cd1e340a4924c0f2eac8e3
+labels:
+- Mesh
+- Text
+- Rendering
+- TextMesh
+- TextMeshPro
+- Font
+- Dynamic
+- Pro
+- Fonts
+- Advanced
+- GUI
+- Scene
+- Styles
+- Style
+- Layout
+- Atlas
+- Kerning
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150956
+  packageName: Karting Microgame | 3D Sample Project
+  packageVersion: 4.1.0
+  assetPath: Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example
+    URP.unity
+  uploadId: 990568

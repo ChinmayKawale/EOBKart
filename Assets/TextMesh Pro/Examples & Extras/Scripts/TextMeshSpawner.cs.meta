@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 76c11bbcfddf44e0ba17d6c2751c8d84
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TheFont: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150956
+  packageName: Karting Microgame | 3D Sample Project
+  packageVersion: 4.1.0
+  assetPath: Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs
+  uploadId: 990568
